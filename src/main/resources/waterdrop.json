@@ -1,0 +1,26 @@
+{
+  "waterdrop": {
+    "web": true,
+    "packageNames": [
+      {
+        "packageName": "hello.*"
+      },
+      {
+        "packageName": "world.*"
+      }
+    ],
+    "view_pref": "/WEB-INF/jsp/",
+    "view_suffix": ".jsp",
+    "staticFilePaths": [
+      {
+        "staticFilePath": "此处实现存在问题，待完善"
+      }
+    ],
+    "database":{
+      "driver":"com.mysql.jdbc.Driver",
+      "url":"jdbc:mysql://localhost:3306/blog",
+      "username":"root",
+      "password":"123456"
+    }
+  }
+}
