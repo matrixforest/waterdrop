@@ -130,7 +130,7 @@ public class TestController {
 web请求通过 DispatcherServlet 进行拦截并下发处理请求，静态资源过滤目前要通过配置web.xml来实现，
 StaticFileHandler这个静态资源过滤实现还存在问题，转发请求会被拦截   
 jdbc用JdbcTemplate进行简单封装，数据库连接池为dbcp   
-整体风格类似spring
+整体风格类似spring  
 
 
 
