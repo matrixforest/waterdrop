@@ -17,7 +17,7 @@ a simple mvc web framework based on java
 
 # Getting Start
 
-## 依赖 Dependencies
+## 依赖 dependencies
 *guava,slf4j,fastjson,dbcp*
 ```
 <dependency>
