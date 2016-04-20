@@ -1,5 +1,5 @@
 # waterdrop   
-a simple mvc web framework based on java   
+a simple web framework based on java   
 #feature  
 1.IoC container   
 2.web mvc   
